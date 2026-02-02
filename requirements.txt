@@ -1,0 +1,6 @@
+streamlit
+openai
+reportlab
+python-dotenv
+folium
+streamlit-folium
